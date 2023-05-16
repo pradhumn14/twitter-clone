@@ -1,5 +1,5 @@
 {
-  "name": "twitter-clone",
+  "name": "npm",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -22,5 +22,13 @@
     "passport-local-mongoose": "^6.1.0",
     "socket.io": "^4.1.3"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradhumn14/twitter-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pradhumn14/twitter-clone/issues"
+  },
+  "homepage": "https://github.com/pradhumn14/twitter-clone#readme"
 }
